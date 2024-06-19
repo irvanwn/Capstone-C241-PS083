@@ -1,0 +1,6 @@
+service: user-database
+
+runtime: nodejs20
+
+env_variables:
+  FIREBASE_CREDENTIALS_PATH: ./keys/key.json
