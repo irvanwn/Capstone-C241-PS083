@@ -1,0 +1,26 @@
+# Steps TO deploy API
+
+Create firewall rule (allow-tcp-8080)
+Create VM (2vcpu 4 GB RAM)
+OS Ubuntu
+set tags with created firewall rule
+
+OPEN SSH 
+
+sudo apt update
+sudo apt install -y python3-pip python3-venv
+
+mkdir skincheck
+cd skincheckapp
+
+python3 -m venv venv
+source venv/bin/activate
+
+gsutil cp -r -- (copy your local files to VM)
+pip install -r requirements.txt
+
+export FLASK_APP=main.py
+export GOOGLE_APPLICATION_CREDENTIALS=keys/key.json
+export UPLOAD_FOLDER=./uploads
+
+nohup gunicorn -b 0.0.0.0:8000 -w 4 --access-logfile - main:app &
