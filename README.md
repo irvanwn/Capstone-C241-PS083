@@ -6,7 +6,9 @@
 </p>
 
 ## First Diagnose Skin Desease App
-abca123
+Please introduce our application, Dermalyze! Our application offers a comprehensive suite of features designed to enhance your skincare routine. With Dermalyze, you can detect a variety of skin issues on your face through our advanced Skin Detection technology. We also offer personalized Skincare Recommendations, suggesting the most suitable products to address your specific skin concerns.
+
+Furthermore, Dermalyze prioritizes safety and quality by offering recommendations for skincare products that are certified and registered with the local health authority. This ensures that users can select products that are safe and suitable for their skin needs. Experience the confidence of using Dermalyze for healthier, clearer skin!
 
 
 ## Team Capstone-C241-PS083 :
