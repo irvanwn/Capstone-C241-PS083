@@ -10,4 +10,4 @@ Designing and Planning Architecture, Designing Rest API and Deploying through Cl
 
 ### Important Notes
 - file key.json at keys Folder was unuploaded because safety issue, to replicate the code you can get you service account key and download it on your local computer
-- for Machine Learning API Flask deployment, you need to create virtual environment inside VM, you can follow steps on note.txt inside Machine Learning API Flask deployment folder
+- For Machine Learning API Flask deployment, you need to create a virtual environment inside the VM. You can follow the steps in [firstDeploymentVM.txt](https://github.com/irvanwn/Dermalyze/blob/backend/Machine%20Learning%20API%20Flask/firstDeploymentVM.txt) inside the Machine Learning API Flask deployment folder.
