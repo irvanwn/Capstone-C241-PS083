@@ -10,6 +10,15 @@ Before you can build and run this project, you need to have the following softwa
 2. [Gradle](https://gradle.org/install/) - Minimum version required is 8.7.
 3. [Android Studio](https://developer.android.com/studio) - The official IDE for Android development.
 
+## Tech Stack
+1. Kotlin
+2. Retrofit
+3. Glide
+4. Coroutines
+5. SafeArgs
+6. Navigation
+
+
 ## Setup Instructions
 
 ### 1. Install the Java Development Kit (JDK)
