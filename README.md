@@ -31,9 +31,9 @@ Image classification using a Convolutional Neural Network (CNN) architecture bas
 The dataset was created from scratch from open-source data online. The data is stored in this repository
 
 ## Models
-Due to size constraint of the models, we did not upload the models to this Github repo. The final model is stored in the following link.
-[Skin Disease Model](https://drive.google.com/drive/folders/19ZNzGaTxYQSUEfvLFn9xtM4t1QQYSfuc?usp=drive_link), 
-[Skin Type Model]([Skin Disease Model](https://drive.google.com/drive/folders/19ZNzGaTxYQSUEfvLFn9xtM4t1QQYSfuc?usp=drive_link)
+Due to size constraint of the models, we did not upload the models to this Github repo. The final model is stored in the following link,
+[Skin Disease Model](https://drive.google.com/drive/folders/19ZNzGaTxYQSUEfvLFn9xtM4t1QQYSfuc?usp=drive_link) and
+[Skin Type Model](https://drive.google.com/drive/folders/19ZNzGaTxYQSUEfvLFn9xtM4t1QQYSfuc?usp=drive_link)
 
 ## Model Deployment 
 Deployment is in GCP to ensure that the model runs well and not make the application intensive for the mobile device. This helps with people who don't own newer or more powerful phones.
