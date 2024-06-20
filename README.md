@@ -10,7 +10,7 @@ Please introduce our application, Dermalyze! Our application offers a comprehens
 
 Furthermore, Dermalyze prioritizes safety and quality by offering recommendations for skincare products that are certified and registered with the local health authority. This ensures that users can select products that are safe and suitable for their skin needs. Experience the confidence of using Dermalyze for healthier, clearer skin!
 
-## [Link Aplikasi](https://drive.google.com/drive/folders/1Vtp5cEkYJhp_clbiivWnEjIuCXio19hm?usp=drive_link)
+
 
 
 ## Team Capstone-C241-PS083 :
@@ -24,3 +24,5 @@ Furthermore, Dermalyze prioritizes safety and quality by offering recommendation
 | Putri Aulia Maulidina  | C291D4KX0529 | Cloud Computing    |
 | Shane Ardyanto Baskara | M001D4KX1465 | Mobile Development |
 | Rifqi Nugraha          | A370D4KY4285 | Mobile Development |
+
+## [Link Aplikasi](https://drive.google.com/drive/folders/1Vtp5cEkYJhp_clbiivWnEjIuCXio19hm?usp=drive_link)
