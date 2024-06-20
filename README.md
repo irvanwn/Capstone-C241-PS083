@@ -1,3 +1,6 @@
+## Backend - CLoud Computing
+Designing and Planning Architecture, Designing Rest API and Deploying through Cloud Run for endpoint communication with Mobile Android Application through Google Cloud Platform. Database was created in Firestore and deployed with App Engine. Machine Learning model API is  deployed at Google Compute engine.
+
 ## Tech Stack
 - Node.js     : Javascript Runtime, we use to create API
 - Firebase    : NoSQL database of Google Cloud Platform, is suitable for web/mobile application database login and suitable for login authentication. we use this as a Database for login
