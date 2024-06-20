@@ -16,6 +16,19 @@ We trained 2 learning models used to classify the potential skin disease/conditi
 |                        |                     |                         |        ML model evaluation #2       |
 |                        |                     |                         |        ML model deployment #2       |
 
+## Schedule During Development
+|         Week 1         |       Week 2        |         Week 3          |               Week 4                |
+|----------------------- |---------------------|-------------------------|-------------------------------------|
+| Identification Topics  |
+| Explore the literature |   Divide dataset    |   ML model testing #1   |          Data collection #2         |
+|   Data collection #1   |   Build ML model    |  ML model evaluation #1 |          Data preparation #2        |
+|   Data preparation #1  |  ML model testing #1|  ML model deployment #1 |  Compare new dataset into ML Model  |
+| Preprocessing Data #1  |                     |      Build ML model     |          ML model testing #2        |
+|                        |                     |  ML model training #1   |        ML model evaluation #2       |
+|                        |                     |                         |        ML model deployment #2       |
+|                        |                     |                         |            Finishing Model          |
+|                        |                     |                         |            ML model training #2     |
+
 ## Model
 Image classification using a Convolutional Neural Network (CNN) architecture based on MobileNet and Inception.
 
@@ -31,9 +44,9 @@ Image classification using a Convolutional Neural Network (CNN) architecture bas
 The dataset was created from scratch from open-source data online. The data is stored in this repository
 
 ## Models
-Due to size constraint of the models, we did not upload the models to this Github repo. The final model is stored in the following link,
-[Skin Disease Model](https://drive.google.com/drive/folders/19ZNzGaTxYQSUEfvLFn9xtM4t1QQYSfuc?usp=drive_link) and
-[Skin Type Model](https://drive.google.com/drive/folders/19ZNzGaTxYQSUEfvLFn9xtM4t1QQYSfuc?usp=drive_link)
+Due to size constraint of the models, we did not upload the models to this Github repo. The final model is stored in the following links: <br />
+https://drive.google.com/drive/folders/19ZNzGaTxYQSUEfvLFn9xtM4t1QQYSfuc?usp=drive_link <br />
+https://drive.google.com/drive/folders/1TCx6HXcrfljXfB3oloPQUc6XVx1kywtb?usp=sharing <br />
 
 ## Model Deployment 
 Deployment is in GCP to ensure that the model runs well and not make the application intensive for the mobile device. This helps with people who don't own newer or more powerful phones.
