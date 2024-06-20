@@ -5,7 +5,8 @@
   <img src="https://github.com/irvanwn/Restful-with-java-tugas/blob/main/img-postman-testing/editData.jpg?raw=true" alt="Dashboard main page" width="1000"/><br>
 </p>
 
-## First Diagnose Skin deasese app
+## First Diagnose Skin Desease App
+abca123
 
 
 ## Team Capstone-C241-PS083 :
