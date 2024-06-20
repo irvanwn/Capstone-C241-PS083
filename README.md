@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/irvanwn/Restful-with-java-tugas/blob/main/img-postman-testing/editData.jpg?raw=true" alt="Dashboard main page" width="1000"/><br>
+  <img src="https://raw.githubusercontent.com/irvanwn/Dermalyze/main/DisplayImage.jpg" alt="Di main page" width="1000"/><br>
 </p>
 
 ## First Diagnose Skin Desease App
