@@ -1,6 +1,5 @@
-# Capstone-C241-PS083
+# Capstone-C241-PS083: DERMALYZE
 
-# DERMALYZE
 ## Bangkit Capstone Project 2024
 This is the repository that is used for the Machine Learning path
 
@@ -33,8 +32,8 @@ The dataset was created from scratch from open-source data online. The data is s
 
 ## Models
 Due to size constraint of the models, we did not upload the models to this Github repo. The final model is stored in the following link.
-[Skin Disease Model](https://drive.google.com/drive/folders/19ZNzGaTxYQSUEfvLFn9xtM4t1QQYSfuc?usp=drive_link)
-[Skin Type Model]([Skin Disease Model](https://drive.google.com/drive/folders/19ZNzGaTxYQSUEfvLFn9xtM4t1QQYSfuc?usp=drive_link))
+[Skin Disease Model](https://drive.google.com/drive/folders/19ZNzGaTxYQSUEfvLFn9xtM4t1QQYSfuc?usp=drive_link), 
+[Skin Type Model]([Skin Disease Model](https://drive.google.com/drive/folders/19ZNzGaTxYQSUEfvLFn9xtM4t1QQYSfuc?usp=drive_link)
 
 ## Model Deployment 
 Deployment is in GCP to ensure that the model runs well and not make the application intensive for the mobile device. This helps with people who don't own newer or more powerful phones.
