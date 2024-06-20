@@ -45,9 +45,9 @@ The dataset was created from scratch from open-source data online. The data is s
 https://github.com/irvanwn/Dermalyze/tree/model/Dataset 
 
 ## Models
-Due to size constraint of the models, we did not upload the models to this Github repo. The final model is stored in the following links: <br />
-https://drive.google.com/drive/folders/19ZNzGaTxYQSUEfvLFn9xtM4t1QQYSfuc?usp=drive_link <br />
-https://drive.google.com/drive/folders/1TCx6HXcrfljXfB3oloPQUc6XVx1kywtb?usp=sharing <br />
+Due to size constraint of the models, we did not upload the models to this Github repo. The final model is stored in the following links,
+[Skin Disease model](https://drive.google.com/drive/folders/19ZNzGaTxYQSUEfvLFn9xtM4t1QQYSfuc?usp=drive_link) and
+[Skin Type Model](https://drive.google.com/drive/folders/1TCx6HXcrfljXfB3oloPQUc6XVx1kywtb?usp=sharing)
 
 ## Model Deployment 
 Deployment is in GCP to ensure that the model runs well and not make the application intensive for the mobile device. This helps with people who don't own newer or more powerful phones.
