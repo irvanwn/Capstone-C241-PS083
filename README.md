@@ -9,15 +9,14 @@ We trained 2 learning models used to classify the potential skin disease/conditi
 ## Schedule During Development
 |         Week 1         |       Week 2        |         Week 3          |               Week 4                |
 |----------------------- |---------------------|-------------------------|-------------------------------------|
-| Identification Topics  |
-| Explore the literature |   Divide dataset    |   ML model testing #1   |          Data collection #2         |
-|   Data collection #1   |   Build ML model    |  ML model evaluation #1 |          Data preparation #2        |
-|   Data preparation #1  |  ML model testing #1|  ML model deployment #1 |  Compare new dataset into ML Model  |
-| Preprocessing Data #1  |                     |      Build ML model     |          ML model testing #2        |
-|                        |                     |  ML model training #1   |        ML model evaluation #2       |
+| Explore the literature |   Divide dataset    |   ML model training #1  |          Data collection #2         |
+|   Data collection #1   |   Build ML model    |  ML model testing #1    |          Data preparation #2        |
+|   Data preparation #1  | ML model training #1|  ML model evaluation #1 |  Compare new dataset into ML Model  |
+| Preprocessing Data #1  |                     | ML model deployment #1  |          ML model testing #2        |
+|                        |                     |      Build ML model     |        ML model evaluation #2       |
 |                        |                     |                         |        ML model deployment #2       |
 |                        |                     |                         |            Finishing Model          |
-|                        |                     |                         |            ML model training #2     |
+|                        |                     |                         |                                     |
 
 ## Model
 Image classification using a Convolutional Neural Network (CNN) architecture based on MobileNet and Inception.
