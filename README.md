@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/irvanwn/Dermalyze/main/DisplayImage.jpg" alt="Di main page" width="1000" height = "800"/><br>
+  <img src="https://raw.githubusercontent.com/irvanwn/Dermalyze/main/DisplayImage.jpg" alt="Di main page" width="800" height = "600"/><br>
 </p>
 
 ## First Diagnose Skin Desease App
