@@ -42,6 +42,7 @@ Image classification using a Convolutional Neural Network (CNN) architecture bas
 
 ## Datasets
 The dataset was created from scratch from open-source data online. The data is stored in this repository
+https://github.com/irvanwn/Dermalyze/tree/model/Dataset 
 
 ## Models
 Due to size constraint of the models, we did not upload the models to this Github repo. The final model is stored in the following links: <br />
